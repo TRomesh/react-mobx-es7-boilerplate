@@ -37,6 +37,8 @@
     "mobx": "^2.6.3",
     "mobx-react": "^3.5.9",
     "react": "15.2.1",
-    "react-dom": "15.2.1"
+    "react-dom": "15.2.1",
+    "semantic-ui-css": "^2.2.4",
+    "semantic-ui-react": "^0.61.4"
   }
 }
