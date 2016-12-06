@@ -10,6 +10,7 @@ import App from './App.js';
 import { Router, Route, BrowserRouter } from 'react-router';
 import { Provider } from 'mobx-react';
 import { useStrict } from 'mobx';
+import { Match } from 'react-router';
 
 useStrict(true);
 
